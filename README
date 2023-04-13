@@ -1,3 +1,5 @@
 A ansible playbook that installs kubernetes packages includes kubelet, kubeadm and kubectl with containerd as container runtime, then creates a cluster on master-1 and join all other master and worker nodes to the cluster automatically.
 use this command to use it:
 ansible-playbook <path>/Install_K8s.yaml -i <path>/hosts
+the restul:
+<img src="https://s8.uupload.ir/files/install_k8s_4ofk.png" alt="Alt text" title="Optional title">
