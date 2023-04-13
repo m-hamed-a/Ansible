@@ -3,3 +3,6 @@ use this command to use it:
 ansible-playbook <path>/Install_K8s.yaml -i <path>/hosts
 the restul:
 ![Install_K8s](https://user-images.githubusercontent.com/45857576/231713718-c67cbb61-b42e-4af4-b55d-f1ac7f9adf94.PNG)
+https://github.com/m-hamed-a/Ansible/issues/1#issue-1666041969
+
+![Install_K8s](https://user-images.githubusercontent.com/45857576/231716162-5db97252-3693-4cdb-8bdf-6db3ff481627.jpg)
