@@ -3,3 +3,4 @@ use this command to use it:
 ansible-playbook <path>/Install_K8s.yaml -i <path>/hosts
 the restul:
 <img src="https://s8.uupload.ir/files/install_k8s_4ofk.png" alt="Alt text" title="Optional title">
+![My Image](Install_K8s.png)
