@@ -2,6 +2,4 @@ A ansible playbook that installs kubernetes packages includes kubelet, kubeadm a
 use this command to use it:
 ansible-playbook <path>/Install_K8s.yaml -i <path>/hosts
 the restul:
-![My Remote Image](https://s8.uupload.ir/files/install_k8s_4ofk.png)
-<img src="https://s8.uupload.ir/files/install_k8s_4ofk.png" alt="Alt text" title="Optional title">
-![My Image](Install_K8s.png)
+![Install_K8s](https://user-images.githubusercontent.com/45857576/231713718-c67cbb61-b42e-4af4-b55d-f1ac7f9adf94.PNG)
